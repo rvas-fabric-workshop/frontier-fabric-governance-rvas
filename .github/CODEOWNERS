@@ -2,13 +2,13 @@
 # e.g. @your-org/fabric-platform-team or @your-github-handle.
 
 # Default reviewer for all changes
-*                       @your-org/fabric-governance-maintainers
+*                       @sdt-msft
 
 # Policy / schema / scripts require platform owner review
-/rules/                 @your-org/fabric-governance-maintainers
-/schemas/               @your-org/fabric-governance-maintainers
-/scripts/               @your-org/fabric-governance-maintainers
-/.github/               @your-org/fabric-governance-maintainers
+/rules/                 @sdt-msft
+/schemas/               @sdt-msft
+/scripts/               @sdt-msft
+/.github/               @sdt-msft
 
 # Production workspace requests need extra scrutiny
-/workspaces/prd-*.yaml  @your-org/fabric-governance-maintainers
+/workspaces/prd-*.yaml  @sdt-msft
