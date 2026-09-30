@@ -1,0 +1,25 @@
+name: pt-nlyt-sample-ndf-dev-fedcred1
+country: pt
+area: nlyt
+subject: sample
+dataProductType: ndf
+environment: dev
+suffix: fedcred1
+domain: dom-ops-dat
+subDomain: sdm-nlyt-smpl
+description: "Draft PR to validate the GitHub OIDC federated credential (pull_request) trust chain end-to-end."
+capacity: contoso-f2-northeurope
+region: northeurope
+sensitivityLabel: General
+costCenter: CC-1001
+owners:
+  - principalType: Group
+    identifier: 372ef100-5498-430a-b8ce-69241f8f73ce
+    role: Admin
+    groupName: grp_fabric_dev_nlyt_admin
+  - principalType: User
+    identifier: stdetoni@MngEnvMCAP195373.onmicrosoft.com
+    role: Member
+tags:
+  managedBy: frontier-fabric-governance-rvas
+  owner: platform-team
