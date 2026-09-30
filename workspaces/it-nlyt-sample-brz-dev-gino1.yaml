@@ -1,10 +1,10 @@
-name: ginolino
+name: it-nlyt-sample-brz-dev-gino1
 country: it
 area: nlyt
 subject: sample
 dataProductType: brz
 environment: dev
-suffix: none
+suffix: gino1
 domain: dom-ops-dat
 subDomain: sdm-nlyt-smpl
 description: "Sample workspace created via PR-based governance to validate the end-to-end approval and provisioning workflow."
