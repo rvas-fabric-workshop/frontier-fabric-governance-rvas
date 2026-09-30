@@ -9,7 +9,7 @@ domain: dom-ops-dat
 subDomain: sdm-nlyt-smpl
 description: "Sample workspace created via PR-based governance to validate the end-to-end approval and provisioning workflow."
 capacity: contoso-f2-northeurope
-region: northeurope
+region: centralus
 sensitivityLabel: General
 costCenter: CC-1001
 owners:

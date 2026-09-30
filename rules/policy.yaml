@@ -5,8 +5,8 @@
 approvedCapacities:
   # logical name -> { capacityId, region, allowedEnvironments, sku }
   contoso-f2-northeurope:
-    capacityId: "33333333-3333-3333-3333-333333333333"
-    region: northeurope
+    capacityId: "FILL-ME-AT-FIRST-RUN" # uses capacity id FABRIC_CAPACITY_ID variable
+    region: centralus
     allowedEnvironments: [poc, dev, sit, uat, stg, prd]
     sku: F2
 
@@ -59,6 +59,7 @@ approvedCountries:
   - pt   # Portugal
   - fr   # France
   - es   # Spain
+  - it   # Italy
 
 approvedSensitivityLabels:
   - Public
