@@ -18,7 +18,7 @@ owners:
     role: Admin
     groupName: grp_fabric_dev_nlyt_admin
   - principalType: User
-    identifier: workspace-owner@contoso.com   # UPN or Object ID of a workspace owner
+    identifier: stdetoni@MngEnvMCAP195373.onmicrosoft.com   # UPN or Object ID of a workspace owner
     role: Admin
 tags:
   managedBy: frontier-fabric-governance-rvas
