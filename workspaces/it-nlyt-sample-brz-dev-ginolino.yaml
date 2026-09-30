@@ -4,7 +4,7 @@ area: nlyt
 subject: sample
 dataProductType: brz
 environment: dev
-suffix: hello1
+suffix: none
 domain: dom-ops-dat
 subDomain: sdm-nlyt-smpl
 description: "Sample workspace created via PR-based governance to validate the end-to-end approval and provisioning workflow."
