@@ -1,3 +1,4 @@
+# esempio di file per provisionare un workspace. senza la estensione .yaml non viene processato, e l'eventuale workspace non viene cancellato ma solo "non è più governato", almeno nella vesione base default
 name: pt-nlyt-sample-ndf-dev-hello1
 country: pt
 area: nlyt
