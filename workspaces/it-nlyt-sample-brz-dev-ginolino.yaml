@@ -2,7 +2,7 @@ name: ginolino
 country: it
 area: nlyt
 subject: sample
-dataProductType: none
+dataProductType: brz
 environment: dev
 suffix: hello1
 domain: dom-ops-dat
