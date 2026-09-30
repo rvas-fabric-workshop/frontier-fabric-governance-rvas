@@ -104,7 +104,7 @@
     },
     "region": {
       "type": "string",
-      "enum": ["northeurope", "westeurope", "eastus", "westus", "uksouth"]
+      "enum": ["northeurope", "westeurope", "eastus", "westus", "uksouth", "centralus"]
     },
     "tags": {
       "type": "object",
